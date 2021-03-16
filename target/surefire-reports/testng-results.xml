@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-16T13:10:33Z" name="All Test Suite" finished-at="2021-03-16T13:11:03Z" duration-ms="29400">
+    <groups>
+    </groups>
+    <test started-at="2021-03-16T13:10:33Z" name="C:/Users/Susmith/IdeaProjects/ExtraPOS" finished-at="2021-03-16T13:11:03Z" duration-ms="29400">
+      <class name="org.acse.testCases.inventory.TC_UoM">
+        <test-method is-config="true" signature="createExcelReportExcel()[pri:0, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:10:32Z" name="createExcelReportExcel" finished-at="2021-03-16T13:10:33Z" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createExcelReportExcel -->
+        <test-method is-config="true" signature="BrowserSetUp()[pri:0, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:10:33Z" name="BrowserSetUp" finished-at="2021-03-16T13:10:44Z" duration-ms="10563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method signature="selectALL_forUomCode()[pri:0, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:10:44Z" name="selectALL_forUomCode" finished-at="2021-03-16T13:10:49Z" duration-ms="5445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectALL_forUomCode -->
+        <test-method signature="createUomCode(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:10:51Z" name="createUomCode" data-provider="addUom" finished-at="2021-03-16T13:10:56Z" duration-ms="4774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Inventory-Uom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TC_UOM_001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Check the response when entering UomCode > 20.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[STUOM1012345678901234567890]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Susmith for Test]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Rolls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[12.234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[There should be a inline validation for Max Length.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUomCode -->
+        <test-method signature="createUomCode(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:10:56Z" name="createUomCode" data-provider="addUom" finished-at="2021-03-16T13:11:02Z" duration-ms="6140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Inventory-Uom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TC_UOM_002]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Check the response when entering UomCode > 20.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[STUOM10123456789012hhhhhhh]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Susmith for Test]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Rolls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[There should be a inline validation for Max Length.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUomCode -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:11:02Z" name="tearDown" finished-at="2021-03-16T13:11:03Z" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="sentEmail()[pri:0, instance:org.acse.testCases.inventory.TC_UoM@11d8ae8b]" started-at="2021-03-16T13:11:03Z" name="sentEmail" finished-at="2021-03-16T13:11:09Z" duration-ms="5679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sentEmail -->
+      </class> <!-- org.acse.testCases.inventory.TC_UoM -->
+    </test> <!-- C:/Users/Susmith/IdeaProjects/ExtraPOS -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

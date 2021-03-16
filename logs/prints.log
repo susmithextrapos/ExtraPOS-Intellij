@@ -1,0 +1,179 @@
+16:47:16.630 [main] INFO  org.acse.resources.Base - Driver has closed
+16:52:23.874 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+16:52:28.559 [main] INFO  org.acse.resources.Base - Login Successfully
+16:52:28.672 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+16:52:28.786 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+16:52:29.207 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+16:52:33.480 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+16:52:34.562 [main] INFO  org.acse.resources.Base - Driver has closed
+17:08:35.169 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+17:08:40.136 [main] INFO  org.acse.resources.Base - Login Successfully
+17:08:40.318 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+17:08:40.501 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+17:08:41.008 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+17:08:45.803 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+17:08:47.000 [main] INFO  org.acse.resources.Base - Driver has closed
+17:14:32.042 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+17:14:36.728 [main] INFO  org.acse.resources.Base - Login Successfully
+17:14:36.990 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+17:14:37.168 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+17:14:37.717 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+17:14:41.757 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+17:14:42.674 [main] INFO  org.acse.resources.Base - Driver has closed
+17:19:12.094 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+17:19:16.563 [main] INFO  org.acse.resources.Base - Login Successfully
+17:19:16.671 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+17:19:16.800 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+17:19:17.274 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+17:19:21.628 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+17:19:22.725 [main] INFO  org.acse.resources.Base - Driver has closed
+17:30:21.936 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+17:30:26.633 [main] INFO  org.acse.resources.Base - Login Successfully
+17:30:26.740 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+17:30:26.840 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+17:30:27.293 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+17:30:31.880 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+17:30:33.895 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM1012345678901234567890
+17:30:37.688 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+17:30:37.721 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+17:30:37.973 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+17:30:38.005 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+17:30:38.353 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+17:30:38.498 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+17:30:38.737 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+17:30:38.814 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+17:30:38.815 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:30:43.396 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+17:30:43.407 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+17:30:43.562 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+17:30:43.586 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+17:30:43.992 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+17:30:44.155 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+17:30:44.339 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+17:30:44.365 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:30:45.407 [main] INFO  org.acse.resources.Base - Driver has closed
+17:32:23.291 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+17:32:27.646 [main] INFO  org.acse.resources.Base - Login Successfully
+17:32:27.753 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+17:32:27.859 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+17:32:28.356 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+17:32:32.940 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+17:32:35.157 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM1012345678901234567890
+17:32:38.776 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+17:32:38.796 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+17:32:39.052 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+17:32:39.080 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+17:32:39.428 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+17:32:39.556 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+17:32:39.816 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+17:32:39.870 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+17:32:39.872 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:32:44.123 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+17:32:44.146 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+17:32:44.305 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+17:32:44.314 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+17:32:44.698 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+17:32:44.970 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+17:32:45.199 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+17:32:45.229 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:32:46.035 [main] INFO  org.acse.resources.Base - Driver has closed
+17:56:13.351 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+17:56:17.608 [main] INFO  org.acse.resources.Base - Login Successfully
+17:56:17.802 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+17:56:17.993 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+17:56:18.454 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+17:56:22.918 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+17:56:25.325 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM1012345678901234567890
+17:56:30.104 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+17:56:30.137 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+17:56:30.523 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+17:56:30.555 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+17:56:31.106 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+17:56:31.359 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+17:56:31.587 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+17:56:31.646 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+17:56:31.650 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:56:37.207 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+17:56:37.235 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+17:56:37.539 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+17:56:37.571 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+17:56:38.021 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+17:56:38.247 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+17:56:38.462 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+17:56:38.504 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+17:56:40.414 [main] INFO  org.acse.resources.Base - Driver has closed
+18:23:01.001 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+18:23:05.680 [main] INFO  org.acse.resources.Base - Login Successfully
+18:23:05.776 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+18:23:05.877 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+18:23:06.282 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+18:23:10.687 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+18:23:12.591 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM1012345678901234567890
+18:23:16.377 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+18:23:16.411 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+18:23:16.748 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+18:23:16.790 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+18:23:17.164 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+18:23:17.338 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+18:23:17.515 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+18:23:17.556 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+18:23:17.557 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:23:21.955 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+18:23:21.969 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+18:23:22.118 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+18:23:22.141 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+18:23:22.510 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+18:23:22.672 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+18:23:22.927 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+18:23:22.978 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:23:23.928 [main] INFO  org.acse.resources.Base - Driver has closed
+18:26:20.002 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+18:26:24.533 [main] INFO  org.acse.resources.Base - Login Successfully
+18:26:24.636 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+18:26:24.808 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+18:26:25.257 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+18:26:29.504 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+18:26:31.842 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM1012345678901234567890
+18:26:36.606 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+18:26:36.623 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+18:26:36.816 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+18:26:36.848 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+18:26:37.205 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+18:26:37.315 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+18:26:37.543 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+18:26:37.586 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+18:26:37.587 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:26:42.155 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+18:26:42.184 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+18:26:42.353 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+18:26:42.371 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+18:26:42.675 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+18:26:42.888 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+18:26:43.100 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+18:26:43.146 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:26:44.110 [main] INFO  org.acse.resources.Base - Driver has closed
+18:40:39.990 [main] INFO  org.acse.resources.Base - driver has been initialized in userManagement class
+18:40:44.349 [main] INFO  org.acse.resources.Base - Login Successfully
+18:40:44.462 [main] INFO  org.acse.resources.Base - Clicked succefully Inventory
+18:40:44.601 [main] INFO  org.acse.resources.Base - Clicked succefully Manintenace
+18:40:45.123 [main] INFO  org.acse.resources.Base - Clicked succefully UoM
+18:40:49.513 [main] INFO  org.acse.resources.Base - Size of the UomCode List -->> 16
+18:40:51.381 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM1012345678901234567890
+18:40:54.991 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+18:40:55.008 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+18:40:55.216 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+18:40:55.234 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+18:40:55.641 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+18:40:55.816 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+18:40:56.088 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+18:40:56.154 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM1012345678901234567890
+18:40:56.156 [main] INFO  org.acse.resources.Base -  :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:41:01.230 [main] INFO  org.acse.resources.Base - Inside the Max Length uomCode Validation
+18:41:01.249 [main] INFO  org.acse.resources.Base - There is proper validation for Max: Length Uom field
+18:41:01.474 [main] INFO  org.acse.resources.Base - Save Actions, but some errrors are present
+18:41:01.486 [main] INFO  org.acse.resources.Base - proper msg for save action(can not save)
+18:41:01.854 [main] INFO  org.acse.resources.Base - Clicked succefully HomeButton
+18:41:02.051 [main] INFO  org.acse.resources.Base - Clicked succefully Tick
+18:41:02.266 [main] INFO  org.acse.resources.Base - Clicked succefully Uom
+18:41:02.296 [main] INFO  org.acse.resources.Base - Inside the finally :: UOMCode is  -> STUOM10123456789012hhhhhhh
+18:41:03.187 [main] INFO  org.acse.resources.Base - Driver has closed
